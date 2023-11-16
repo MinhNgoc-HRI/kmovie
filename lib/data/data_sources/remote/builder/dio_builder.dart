@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
-import 'package:kmovie/core/utils/constants.dart';
+import 'package:kmovie/utils/constants.dart';
 import 'package:kmovie/data/data_sources/remote/interceptors/dio_prettier_interceptors.dart';
 import 'package:kmovie/data/data_sources/remote/interceptors/header_interceptors.dart';
 
